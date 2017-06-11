@@ -43,3 +43,6 @@ songLength:  equ $-song
 
 message:       db "Your computer has been trashed by the MEMZ trojan. Now enjoy the Nyan Cat..."
 messageLength: equ $-message
+
+message2:       db "7 GRAND DAD Coming Soon..."
+message2Length: equ $-message2
