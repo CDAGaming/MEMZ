@@ -1,7 +1,5 @@
 #define UNICODE
 
-#include "../Build/Mode.h"
-
 #ifdef CLEAN
 // Enable XP styles
 #pragma comment(linker,"\"/manifestdependency:type='win32' \
