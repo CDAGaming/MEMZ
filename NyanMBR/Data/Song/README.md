@@ -1,1 +1,1 @@
-Download the midi file [here](http://morganatmacsd.tumblr.com/post/7275362575/midi-file-for-nyan-cat-song)
+Download the midi file [here](http://download1350.mediafire.com/cdmp9qi4miog/1104lan91ak8kq0/NyanCat.mid)
